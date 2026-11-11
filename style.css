@@ -32,3 +32,7 @@ textarea{min-height:64px}.ck{display:flex;gap:8px;align-items:center;color:var(-
 h4{margin:12px 0 4px;font-size:.9rem}.ed{border-top:1px dashed var(--b);margin-top:10px;padding-top:4px}
 .lr{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:4px 0}
 .lk.cur{background:var(--a);color:var(--c)}.it.fz{opacity:.6}select[multiple]{min-height:130px}
+.ln{margin-bottom:14px}.ln h3 small{color:var(--m);font-weight:400}
+.par{background:var(--c);border:2px solid var(--w);border-radius:12px;padding:12px;margin:0 0 14px}.par p{margin:6px 0}
+.par .ok{color:var(--a)}.par .at{color:var(--w)}.par .al{background:none;padding:0;color:var(--e)}
+.al.r{background:#fbe6e2;color:#a02f23}.wk{display:grid;grid-template-columns:1fr 1fr;gap:0 12px}
